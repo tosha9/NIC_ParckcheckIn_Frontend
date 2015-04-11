@@ -4,11 +4,11 @@ angular.module('starter.controllers', [])
 
 
 
-/*
+
 
   L.mapbox.accessToken = 'pk.eyJ1Ijoic3luY2FkZC1rcmlzIiwiYSI6IlUwc2kwM2MifQ.jWhx9OKyfi0h7llHzxug1g';
 
-var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/examples.map-i87786ca/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/mapbox.outdoors/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
     attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
 
 
@@ -18,7 +18,7 @@ var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/examples.map-i877
          layers: [mapboxTiles]
        });
 
-       map.attributionControl.setPrefix('');
+      /* map.attributionControl.setPrefix('');
 
        var locationIcon = L.icon({
          iconUrl: 'img/LocationDisplay@2x.png',
