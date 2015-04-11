@@ -1,0 +1,16 @@
+2015-04-11 11:32:29.761 parkcheckin[85256:4856763] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris/Library/Developer/CoreSimulator/Devices/B4CF62AB-80CD-4A41-B0A6-AAE9846DB17D/data/Containers/Data/Application/EA4331B4-2534-47D1-95B7-6D3BF15E2CC1/Library/Cookies/Cookies.binarycookies
+2015-04-11 11:32:29.997 parkcheckin[85256:4856763] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 11:32:29.998 parkcheckin[85256:4856763] Multi-tasking -> Device: YES, App: YES
+2015-04-11 11:32:30.011 parkcheckin[85256:4856763] Unlimited access to network resources
+2015-04-11 11:32:30.387 parkcheckin[85256:4856763] [CDVTimer][keyboard] 0.068009ms
+2015-04-11 11:32:30.387 parkcheckin[85256:4856763] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-04-11 11:32:30.793 parkcheckin[85256:4856763] Resetting plugins due to page load.
+2015-04-11 11:32:31.052 parkcheckin[85256:4856763] Finished load of: file:///Users/kris/Library/Developer/CoreSimulator/Devices/B4CF62AB-80CD-4A41-B0A6-AAE9846DB17D/data/Containers/Bundle/Application/460A18A4-0DDF-4390-809B-C2DB9766783A/parkcheckin.app/www/index.html#/tab/dash
+2015-04-11 14:04:26.049 parkcheckin[87066:4961693] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris/Library/Developer/CoreSimulator/Devices/B4CF62AB-80CD-4A41-B0A6-AAE9846DB17D/data/Containers/Data/Application/F2EDB0B8-D484-44F3-8E2F-A02B037D2455/Library/Cookies/Cookies.binarycookies
+2015-04-11 14:04:26.156 parkcheckin[87066:4961693] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 14:04:26.157 parkcheckin[87066:4961693] Multi-tasking -> Device: YES, App: YES
+2015-04-11 14:04:26.158 parkcheckin[87066:4961693] Unlimited access to network resources
+2015-04-11 14:04:26.232 parkcheckin[87066:4961693] [CDVTimer][keyboard] 0.054002ms
+2015-04-11 14:04:26.232 parkcheckin[87066:4961693] [CDVTimer][TotalPluginStartup] 0.200987ms
+2015-04-11 14:04:26.383 parkcheckin[87066:4961693] Resetting plugins due to page load.
+2015-04-11 14:04:26.534 parkcheckin[87066:4961693] Finished load of: file:///Users/kris/Library/Developer/CoreSimulator/Devices/B4CF62AB-80CD-4A41-B0A6-AAE9846DB17D/data/Containers/Bundle/Application/7902D279-1F8E-422F-BACB-01FFD8939B3E/parkcheckin.app/www/index.html#/tab/map

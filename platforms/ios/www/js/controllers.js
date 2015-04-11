@@ -1,7 +1,7 @@
 angular.module('starter.controllers', [])
 
 .controller('MapCtrl', function($scope) {
-
+/*
   L.mapbox.accessToken = 'pk.eyJ1Ijoic3luY2FkZC1rcmlzIiwiYSI6IlUwc2kwM2MifQ.jWhx9OKyfi0h7llHzxug1g';
 
 var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/examples.map-i87786ca/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
@@ -44,7 +44,7 @@ var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/examples.map-i877
 
        var watchID = navigator.geolocation.watchPosition(onSuccess, onError, { maximumAge: 3000, timeout: 15000, enableHighAccuracy: true });
 
-
+*/
 })
 
 

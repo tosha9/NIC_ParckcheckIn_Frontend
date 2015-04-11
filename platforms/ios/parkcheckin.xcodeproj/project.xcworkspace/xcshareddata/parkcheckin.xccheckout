@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>484D97F1-F0EB-4AE4-9248-C67E3B0A1601</string>
+	<key>IDESourceControlProjectName</key>
+	<string>parkcheckin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1BF139B64108119DD9A9DE1C072DD0FCB2AF3DDC</key>
+		<string>github.com:tosha9/NIC_ParckcheckIn_Frontend.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/parkcheckin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1BF139B64108119DD9A9DE1C072DD0FCB2AF3DDC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:tosha9/NIC_ParckcheckIn_Frontend.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1BF139B64108119DD9A9DE1C072DD0FCB2AF3DDC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1BF139B64108119DD9A9DE1C072DD0FCB2AF3DDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>parkcheckin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
